@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1621107546204,"sparkVersion":"3.1.1","uid":"StringIndexer_dc714ee1ff06","paramMap":{"outputCol":"Vehicle_Make_ind","handleInvalid":"skip","inputCol":"Vehicle_Make"},"defaultParamMap":{"outputCol":"StringIndexer_dc714ee1ff06__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1621107597310,"sparkVersion":"3.1.1","uid":"StringIndexer_cb42e16af523","paramMap":{"inputCol":"Violation_Post_Code","handleInvalid":"skip","outputCol":"Violation_Post_Code_ind"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_cb42e16af523__output"}}

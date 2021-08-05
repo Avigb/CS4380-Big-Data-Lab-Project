@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1621107541533,"sparkVersion":"3.1.1","uid":"StringIndexer_2d81fdb648a0","paramMap":{"handleInvalid":"skip","inputCol":"Vehicle_Body_Type","outputCol":"Vehicle_Body_Type_ind"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_2d81fdb648a0__output","stringOrderType":"frequencyDesc"}}
